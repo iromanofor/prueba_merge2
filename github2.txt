@@ -1,1 +1,2 @@
 Primera linea de github2.txt
+Segund alinea añadida en local.
